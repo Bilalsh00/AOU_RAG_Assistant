@@ -2,15 +2,15 @@
 
 A Retrieval-Augmented Generation (RAG) chatbot for Arab Open University academic information.
 
-## What changed from the original project
+## Key Features
 
-- Replaced the Egyptian private-universities scope with AOU academic information.
-- Replaced the old `priavte_school` Chroma database with `aou_chroma_db`.
-- Added bilingual-friendly multilingual embeddings.
-- Preserved source metadata so the assistant can cite retrieved sources.
-- Fixed chat-history roles so assistant messages are not treated as user messages.
-- Added an ingestion script for official AOU webpages and local PDF/TXT documents.
-- Added a clean Streamlit interface and source panel.
+- RAG-based academic question answering.
+- AI-powered responses using Gemma 2.
+- Semantic search with ChromaDB.
+- Query rewriting and retrieval using LangGraph.
+- Academic information from official AOU sources.
+- Interactive Streamlit chat interface.
+- Source references for generated answers.
 
 ## Recommended Python version
 
