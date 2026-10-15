@@ -1,0 +1,9 @@
+Put official AOU PDF files in this folder, for example:
+- Student Prospectus
+- Student Guide / Student Handbook
+- Computer Science programme specification
+- Regulations
+- Any official course-plan PDF relevant to your project
+
+Then rebuild the knowledge base:
+python ingest.py --reset

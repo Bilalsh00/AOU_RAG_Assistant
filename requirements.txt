@@ -1,0 +1,12 @@
+streamlit>=1.40
+langchain-core>=0.3
+langchain-chroma>=0.2
+langchain-huggingface>=0.1
+langchain-ollama>=0.2
+langchain-text-splitters>=0.3
+langgraph>=0.2
+chromadb>=0.5
+sentence-transformers>=3.0
+beautifulsoup4>=4.12
+requests>=2.32
+pypdf>=5.0
