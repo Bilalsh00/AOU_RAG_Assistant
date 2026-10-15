@@ -95,6 +95,4 @@ User Question -> Query Rewrite -> Chroma Retrieval -> AOU Context -> Gemma 2 -> 
 ### AI Chatbot Response
 ![Chatbot Response](Screenshot%202026-10-15%20105225.png)
 
-## Important note for the graduation project
 
-This is a strong baseline prototype. Later improvements can include academic advising, prerequisite checking, transcript analysis, course recommendations, evaluation metrics, and an admin document-update interface.
