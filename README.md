@@ -87,6 +87,13 @@ User Question -> Query Rewrite -> Chroma Retrieval -> AOU Context -> Gemma 2 -> 
 - `ingest.py`: builds the RAG knowledge base
 - `data/aou_sources.txt`: official AOU webpage sources
 - `data/documents/`: place official PDFs here
+## Application Screenshots
+
+### Home Page
+![Home Page](Screenshot%202026-10-15%20104722.png)
+
+### AI Chatbot Response
+![Chatbot Response](Screenshot%202026-10-15%20105225.png)
 
 ## Important note for the graduation project
 
